@@ -1,0 +1,608 @@
+ *{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+body{
+    overflow-x: hidden;
+   
+}
+/* header section */
+ 
+.img1{
+    height: 70px;
+    width: 80px;
+    margin-right: 0px;
+
+} 
+.text1{
+  color: #FD6201;
+  font-weight: bold;
+  font-size: 120%;
+
+}
+.deliveryadd{
+    font-weight: bold;
+}
+.text2{
+    font-size: 100%;
+}
+ .input1{
+    border-radius: 15px;
+    
+ 
+  
+} 
+
+
+.input-icons{
+     margin-right: 15px; 
+}
+
+ .input-icons i {
+     position: absolute; 
+}
+  
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px; 
+    
+}
+  
+.icon {
+    padding: 15px;
+    color: #FFB30E; 
+
+  
+     
+}
+  
+.input1 {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+  
+    
+
+   
+    
+}  
+
+
+
+
+ .btn1, .btn2{
+    padding: 5px 8px;
+    width: 100px;
+    margin-right: 10px;
+    margin-top: 3px;
+    border: transparent;
+    border-radius: 15px;
+    background-color: #FD6201;
+    color: white;
+    transition: 0.5s;
+    height: 40px;
+}
+
+.btn1:hover{
+    color: black;
+    background-color: lightblue;
+    
+}
+.btn2:hover{
+    color: black;
+    background-color: lightblue;
+}     
+
+.text2{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.hearti{
+    font-size: 25px;
+}
+/* header end */
+
+
+/* main section */
+
+
+/* homepage */
+
+.homepage{
+    background-color: #FFB30E;
+   
+    
+
+}
+
+.btn01{
+    background-color: #FD6201;
+    color: white;
+    transition: 0.5s;
+    width: 100%;
+
+}
+.btn01:hover{
+    opacity: 0.8;
+}
+
+
+.textdiv1{
+    margin-top: 70px;
+    padding-left: 36px;
+    margin-bottom: 40px;
+  
+}
+.imgdiv1{
+    margin-top: 60px;
+    padding-right: 40px;
+    transition: 0.5s;
+}
+.imgdiv1:hover{
+   margin-top: 30px;
+    margin-bottom: 40px;
+    
+}
+.img01{
+    margin-bottom: 25px;
+}
+.text5{
+    color: white;
+    font-weight: bold;
+}
+
+.card1{
+    margin-top: 20px;
+    width: 90%;
+}
+
+/* homepage end */
+
+/* discount page */
+
+ .discount1{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.cardyo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    
+} 
+.img4{
+    border-radius: 20px;
+    
+}
+.text7{
+    font-weight: bold;
+    font-size: 20px;
+}
+.cap1{
+    font-size: 18px;
+    font-weight: bold;
+    color: #FD6201;
+    
+}
+.cap01{
+    background-color: #FDEADF;
+    width: 170px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.yot{
+    position: relative;
+   
+   
+}
+.bottom-left {
+    position: absolute;
+    bottom: 0px ;
+    left: 0px;
+    height: 90px;
+    width: 100px;
+    border-radius: 20px;
+  }
+  
+  .text10{
+      font-size: 30px;
+      
+      margin-top: 10px;
+      
+  }
+  .text11{
+    font-size: 20px;
+  }
+  /* discountpage ends */
+
+  /* how it work */
+
+.workshow{
+    background-color: #FDEADF;
+    
+}
+  .card3{
+      border: none;
+      margin-top: 10px;
+      margin-bottom: 20px;
+      background-color: #FDEADF;
+
+  }
+  .head8{
+      margin-top: 90px;
+      padding-top: 50px;
+      color: #FD6201;
+      font-weight: bold;
+  }
+  .how{
+      margin-top: 70px;
+      
+  }
+  .icon9{
+      font-size: 70px;
+      color: #FFB30E;
+  }
+  .location4{
+      font-size: 30px;
+      margin-top: 20px;
+      margin-bottom: 10px;
+  }
+
+
+/* ends */
+
+/* popular items */
+.card9{
+    border: none;
+}
+ .prev001{
+background-color: #FD6201;
+border-radius: 30px;
+height: 50px;
+width: 50px; 
+   margin-top: 10%;
+margin-left: 3%;
+margin-right: 2%;    
+
+
+}
+
+
+.next001{
+    background-color: #FD6201;
+    border-radius: 30px;
+    height: 50px;
+    width: 50px;
+    margin-top: 10%;
+    margin-right: 3%;
+    margin-left: 2%; 
+    } 
+  
+
+    .text15{
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .text16{
+        color: #FD6201;
+        font-weight: bold;
+
+    }
+    .text17{
+        font-weight: bold;
+    }
+
+    .img9{
+        border-radius: 20px;
+    }
+
+    .mainhead9{
+        margin-top: 80px;
+         margin-bottom: 90px;
+         text-align: center;
+         color: #FD6201;
+         font-weight: bold;
+    }
+    .popularitems{
+        margin-bottom: 90px;
+    }
+
+    
+    /* restaurants section */
+
+    .cap02{
+
+        background-color: greenyellow;
+        width: 170px;
+        border-radius: 10px;
+        cursor: pointer;
+        margin-top: 10px;
+       
+    }
+
+  .cap2{
+    font-size: 18px;
+    font-weight: bold;
+    color: green;
+  }
+  .card0001{
+      border: none;
+
+  }
+  .title15{
+      font-size: 20px;
+      font-weight: bold;
+  }
+  .imgres{
+      border-radius: 18px;
+  }
+  .featuretitle{
+      margin-top: 100px;
+      margin-bottom: 100px;
+      font-weight: bold;
+      font-size: 40px;
+      color: #FD6201;
+  }
+  .iconstar{
+      color: #FFB30E;
+      
+  }
+  .number000{
+      font-weight: bold;
+  }
+  .span0{
+      background-color: #FD6201;
+    
+     
+  }
+  
+  .textimg{
+      position: relative;
+  }
+  .badgeimg{
+      position: absolute;
+      top: 5px;
+      left: 8px;
+     
+      
+  }
+  .card0001{
+      margin-bottom: 40px;
+  }
+  .view{
+      height: 50px;
+      width: 150px;
+  }
+  
+
+  /* search by food */
+
+.titlefood{
+    font-size: 35px;
+}
+.iu{
+    font-size: 15px;
+}
+
+ .cent{
+     margin-top: 140px;
+ }
+ .cardradi{
+     border: none;
+     margin-top: 20px;
+     margin-bottom: 50px;
+ }
+ .imgrad{
+     border-radius: 50%;
+ }
+ .margin1{
+     margin-top: 120px;
+ }
+ .text20{
+     font-size: 22px;
+ }
+ .op10{
+     background-color: #FD6201;
+     height: 50px;
+     width: 50px;
+     border-radius: 50%;
+ }
+     
+ .op11{
+    background-color: #FD6201;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+ } 
+
+ /* extra */
+
+
+
+ .extra{
+
+margin-top: 200px;
+background-color: #FEEFD0;
+
+ }
+.box01{
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 60px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+    
+    
+    
+}
+.heading00{
+    padding-top: 70px;
+}
+.box001{
+     padding-top: 60px;
+    padding-bottom: 60px; 
+}
+.icontag{
+    font-size: 80px;
+    color: #FFB30E;
+}
+.textdel{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.dis2, .dis1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-right: 1px solid black;
+}
+.dis3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.google{
+    background-color: white;
+   
+   
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   margin-right: 20px;
+   border-radius: 15px;
+}
+.mar{
+    margin-left: 20px;
+    margin-top: 6px;
+    margin-right: 2px;
+}
+.gog{
+    font-size: 30px;
+    color: #FD6201;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.getit{
+    display: flex;
+    flex-direction: row;
+    
+}
+.imgtext{
+    margin-top: 40px;
+}
+.svg{
+    position: relative;
+    margin-top: 100px;
+    background-image: url(cta-one-bg.png);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+
+}
+
+
+.titledown{
+    color: #FD6201;
+}
+
+
+/* 3 cards section */
+
+.cards003{
+    margin-top: 100px;
+}
+
+
+.cardsandwi{
+    border-radius: 15px;
+    box-shadow: 0 3px 10px  rgb(0 0 0 / 0.3);
+    margin-bottom: 80px;
+}
+.titlebest{
+    font-size: 40px;
+    font-weight: bold;
+    color: #FD6201;
+
+}
+.bodytex{
+    margin-top: 50px;
+}
+.textenjo{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.buttonproceed{
+    height: 40px ;
+    border-radius: 10px;
+}
+.proceed{
+    color: black;
+    font-weight: bold;
+    
+}
+
+
+
+/* are you ready */
+
+.readyto{
+    background-image: url(cta-two-bg.png);
+     background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+     height: 400px; 
+    margin-top: 100px;
+    
+   
+}
+.titleready{
+    font-size: 40px;
+
+    color: white;
+
+}
+.btnready{
+    background-color: #FD6201;
+    
+    margin-top: 15px;
+}
+/* footer */
+footer{
+    color: white;
+    background-color: #212121;
+   
+}
+.foottext{
+    font-size: 21px;
+    padding-top: 100px;
+}
+.ullist ul li{
+    list-style: none;
+    cursor: pointer;
+    margin-top: 9px;
+}
+ 
+.compa{
+    margin-left: 50px;
+}
+
+.followus{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.iconf{
+    font-size: 20px;
+    margin-left: 5px;
+    transition: 0.5s;
+   
+    color: grey;
+    
+}
+.iconf:hover{
+    color: #FD6201;
+}
+.mailbox{
+    margin-top: 20px;
+    margin-left: 35px;
+}
